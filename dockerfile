@@ -1,3 +1,3 @@
 FROM nginx
-COPY index.html/usr/share/nginx/html
-EXPOSE 80 
+COPY TP5.html /usr/share/nginx/html
+EXPOSE 80
